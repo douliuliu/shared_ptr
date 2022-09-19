@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/vscodeWorkPlace/shared_ptr/build",
+  "command": "D:\\myDeveloper\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\shared_cmake.dir\\main.cpp.obj -c D:\\vscodeWorkPlace\\shared_ptr\\main.cpp",
+  "file": "D:/vscodeWorkPlace/shared_ptr/main.cpp"
+}
+]

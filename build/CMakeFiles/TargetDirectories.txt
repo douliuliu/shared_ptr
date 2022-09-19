@@ -1,0 +1,3 @@
+D:/vscodeWorkPlace/shared_ptr/build/CMakeFiles/shared_cmake.dir
+D:/vscodeWorkPlace/shared_ptr/build/CMakeFiles/edit_cache.dir
+D:/vscodeWorkPlace/shared_ptr/build/CMakeFiles/rebuild_cache.dir
